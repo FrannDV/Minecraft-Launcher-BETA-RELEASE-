@@ -1,3 +1,10 @@
 # Minecraft-Launcher-BETA-RELEASE
 
-Para usar el launcher, hay que extraer el archivo y ejecutar el archivo del launcher, ¡Disfrute el Juego!
+INSTRUCCIONES PARA USAR EL LAUNCHER
+<--------------------------------->
+
+* Descarga el Launcher
+
+* Ejecuta el Launcher
+
+* ¡Disfruta del Juego!
